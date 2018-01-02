@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"PopupMenu\",
+    \"Version\" : \"4.5.0\",
+    \"CompatVersion\" : \"4.5.0\",
+    \"Vendor\" : \"Jens Kallup\",
+    \"Copyright\" : \"(C) 2018 Jens Kallup\",
+    \"License\" : \"non-profit only\",
+    \"Description\" : \"extends QtCreator\",
+    \"Url\" : \"http://www.kallup.org\",
+    $$dependencyList
+}
